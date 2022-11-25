@@ -5,7 +5,7 @@
 If you haven't already, install the required dependencies
 
 ```bash
-pip install -r annotation_tool/requirements.txt
+pip install -r annotation_tool/requirements.in
 ```
 
 From the project root directory, run:
